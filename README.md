@@ -16,7 +16,7 @@ Kolom dalam dataset:
 
 ## 📊 Tech Stack  
 - **Python**: Pandas, Matplotlib, Seaborn  
-- **Jupyter Notebook / Google Colab**  
+- **Google Colab**  
 
 ## 🔍 Analisis yang Dilakukan  
 ✔️ Eksplorasi data (cek missing values, distribusi data)  
